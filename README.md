@@ -7,7 +7,7 @@
 
 
 ## Hi there! I'm Luiz Claro (He/Him) 👋
-#### 📱I'm a mobile app developer based in Toronto, Ontario📱
+#### 📱I'm a mobile-first app developer based in Toronto, Ontario📱
 
 - 🔭 I’m [Open to Work](https://www.linkedin.com/in/luiz-claro/)!
 <!-- - 🌱 Currently learning Kotlin, Flutter and Dart -->
