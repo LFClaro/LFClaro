@@ -14,6 +14,7 @@
 - 🎓 I recently got my Information Technology Solutions postgrad diploma at [Humber College](https://appliedtechnology.humber.ca/programs/information-technology-solutions.html)
 - 🎥 I previously had a career as an audiovisual content producer
 - 📫 You can reach me at [lfclaro@gmail.com](mailto:lfclaro@gmail.com)!
+- 💻 Visit my portfolio website at [luizclaro.com](https://www.luizclaro.com)!
 
 <!-- ## Skills
 
