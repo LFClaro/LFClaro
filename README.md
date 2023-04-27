@@ -29,7 +29,7 @@
     <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Git"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GitHub/Git" alt="GitHub/Git" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Firebase"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a>
-    <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain.svg" title="iOS' Swift" alt="Swift" width="40" height="40"/></a>
+    <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="iOS' Swift" alt="Swift" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Flutter_(software)"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/></a>
