@@ -9,9 +9,8 @@
 ## Hi there! I'm Luiz Claro (He/Him) 👋
 #### 📱I'm a mobile-first app developer based in Toronto, Ontario📱
 
-- 🔭 I’m [Open to Work](https://www.linkedin.com/in/luiz-claro/)!
 <!-- - 🌱 Currently learning Kotlin, Flutter and Dart -->
-- 🎓 I recently got my Information Technology Solutions postgrad diploma at [Humber College](https://appliedtechnology.humber.ca/programs/information-technology-solutions.html)
+- 🎓 I have an Information Technology Solutions postgrad diploma at [Humber College](https://appliedtechnology.humber.ca/programs/information-technology-solutions.html)
 - 🎥 I previously had a career as an audiovisual content producer
 - 📫 You can reach me at [lfclaro@gmail.com](mailto:lfclaro@gmail.com)
 - 💻 Visit my portfolio at [luizclaro.com](https://www.luizclaro.com)!
