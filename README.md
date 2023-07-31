@@ -18,8 +18,6 @@
 ## Skills
 
 <div>
-    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/develop/icons/csharp/csharp-plain.svg" title="C#" alt="C Sharp" width="40" height="40"/></a>
-    <a href="https://en.wikipedia.org/wiki/Flutter_(software)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" ttitle="HTML5" alt="HTML5" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/></a>
@@ -32,6 +30,8 @@
     <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Firebase" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/MongoDB" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></a>
+      <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/develop/icons/csharp/csharp-plain.svg" title="C#" alt="C Sharp" width="40" height="40"/></a>
+    <a href="https://en.wikipedia.org/wiki/Flutter_(software)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="iOS' Swift" alt="Swift" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>
