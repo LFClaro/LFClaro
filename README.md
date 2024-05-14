@@ -15,11 +15,16 @@
 - 📫 You can reach me at [lfclaro@gmail.com](mailto:lfclaro@gmail.com)
 - 💻 Visit my portfolio at [luizclaro.com](https://www.luizclaro.com)!
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LFClaro&rank=SECRET,AAA,AA,A,B,C&column=-1&theme=onedark" alt="My Github Trophies" />
+</p>
+
 ## Skills
 
-<div>
-    <a href="https://en.wikipedia.org/wiki/Flutter_(software)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/></a>
-    <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="iOS' Swift" alt="Swift" width="40" height="40"/></a>
+<div align="center">
+    <a href="https://en.wikipedia.org/wiki/Flutter_(software)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter / Dart" width="40" height="40"/></a>
+    <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="iOS Swift" alt="Swift" width="40" height="40"/></a>
+      <a href="https://en.wikipedia.org/wiki/Android_(operating_system)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android Java/Kotlin" alt="Android" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" ttitle="HTML5" alt="HTML5" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40"/></a>
@@ -36,5 +41,7 @@
     <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Jekyll_(software)" target="_blank"><img src="https://github.com/devicons/devicon/blob/develop/icons/jekyll/jekyll-original.svg" title="Jekyll" alt="Jekyll" width="40" height="40"/></a>
+    <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go Programming Language" alt="Go" width="40" height="40"/></a>
+     <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust Programming Language" alt="Rust" width="40" height="40"/></a>
 </div>
 
