@@ -39,11 +39,13 @@
     <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Firebase" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/MongoDB" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></a>
+      <a href="https://en.wikipedia.org/wiki/Algolia" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/algolia/algolia-original.svg" title="Algolia" alt="Algolia" width="40" height="40"/></a>
       <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/develop/icons/csharp/csharp-plain.svg" title="C#" alt="C Sharp" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Scala_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/></a>
-    <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Jekyll_(software)" target="_blank"><img src="https://github.com/devicons/devicon/blob/develop/icons/jekyll/jekyll-original.svg" title="Jekyll" alt="Jekyll" width="40" height="40"/></a>
-    <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go Programming Language" alt="Go" width="40" height="40"/></a>
+    <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go Programming Language" alt="Golang" width="40" height="40"/></a>
      <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust Programming Language" alt="Rust" width="40" height="40"/></a>
 </div>
 
