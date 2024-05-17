@@ -7,13 +7,15 @@
 
 
 ## Hi there! I'm Luiz Claro (He/Him) 👋
-#### 📱I'm a mobile-first app developer based in Toronto, Ontario📱
+#### 👨🏻‍💻 I'm a Full Stack Developer based in Toronto, Ontario 👨🏻‍💻
 
 <!-- - 🌱 Currently learning Kotlin, Flutter and Dart -->
+- 💻 Visit my portfolio at [luizclaro.com](https://www.luizclaro.com)!
 - 🎓 I have an Information Technology Solutions postgrad diploma at [Humber College](https://appliedtechnology.humber.ca/programs/information-technology-solutions.html)
+- 🐶 Proud dad of two awesome doggos 🐶
+- 🎲 I'm an avid Board Game player and collector 
 - 🎥 I previously had a career as an audiovisual content producer
 - 📫 You can reach me at [lfclaro@gmail.com](mailto:lfclaro@gmail.com)
-- 💻 Visit my portfolio at [luizclaro.com](https://www.luizclaro.com)!
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LFClaro&rank=SECRET,AAA,AA,A,B,C&column=-1&theme=onedark" alt="My Github Trophies" />
