@@ -11,7 +11,7 @@
 
 <!-- - 🌱 Currently learning Kotlin, Flutter and Dart -->
 - 💻 Visit my portfolio at [luizclaro.com](https://www.luizclaro.com)!
-- 🎓 I have an Information Technology Solutions postgrad diploma at [Humber College](https://appliedtechnology.humber.ca/programs/information-technology-solutions.html)
+- 🎓 I hold an Information Technology Solutions postgrad diploma from [Humber College](https://appliedtechnology.humber.ca/programs/information-technology-solutions.html)
 - 🐶 Proud dad of two awesome doggos 🐶
 - 🎲 I'm an avid Board Game player and collector 
 - 🎥 I previously had a career as an audiovisual content producer
