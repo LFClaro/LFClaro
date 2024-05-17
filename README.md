@@ -36,6 +36,7 @@
     <a href="https://en.wikipedia.org/wiki/Laravel" target="_blank"><img src="https://cdn.simpleicons.org/laravel" title="Laravel" alt="Laravel" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GitHub/Git" alt="GitHub/Git" width="40" height="40"/></a>
+    <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank"><img src="https://github.com/devicons/devicon/tree/master/icons/postgresql" title="PosgreSQL" alt="Postgres" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Firebase" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/MongoDB" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></a>
